@@ -1,0 +1,5 @@
+networkx>=3.2.1
+pydantic>=2.6.0
+lark>=1.1.9
+tree-sitter>=0.21.3
+antlr4-python3-runtime>=4.13.1
